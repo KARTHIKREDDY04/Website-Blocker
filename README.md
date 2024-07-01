@@ -36,7 +36,7 @@ Website Blocker is a simple Python application built with tkinter that allows us
 5. **View Status**:
    - Messages like "Blocked", "Already Blocked", or "Unblocked Successfully" will appear based on the operation performed.
 
-## Notes
+## Note:
 
 - Ensure you have administrative privileges to modify the hosts file.
 - Use caution when blocking websites as it can affect browsing behavior on your system.
